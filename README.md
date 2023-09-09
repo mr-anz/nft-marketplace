@@ -1,4 +1,4 @@
-# Dappazon
+# Timeless | NFT Marketplace
 
 ## Technology Stack & Tools
 
